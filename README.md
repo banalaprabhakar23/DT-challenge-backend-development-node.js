@@ -1,3 +1,4 @@
+<<<<<<< HEAD
                    ## DT Challenge – Node.js Backend Development 
 
 This repository contains my submission for the DT Node.js Backend Development assessment.
@@ -19,3 +20,7 @@ Task 2: API Documentation
 
 Voice Explanation:
  describing my approach and understanding of both tasks.
+=======
+# DT-challenge-backend-development-node.js
+DT Challenge  Node.js Backend Development Assessment
+>>>>>>> a5ac2a1fe1ed892ccaddd1ac62a989c83564f0d0
